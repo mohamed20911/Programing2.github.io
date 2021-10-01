@@ -15,7 +15,7 @@ body{
           top: 0;
           left: 0;
           display: block;
-          background: steelblue;
+          background-color: navy;
           width: 100%;
           padding: initial 20px;
           font-size: 1.2em;
@@ -24,14 +24,16 @@ body{
 .top ul{
           list-style: none;
           float: right;
+          color: white;
 }
 .top ul li{
           display: block;
           float: left;
           margin: 4px;
           padding:10px;
-          color: white;
+          color: wheat;
 }
+
 .logo{
           float: left;
           color: silver;
