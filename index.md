@@ -16,7 +16,7 @@ For more details see [Github profile](https://github.com/mohamed20911).
 
 ### web site
 
-To make website with github visit the website [Github pages]
+To make website with github visit the website [Github pages](https://pages.github.com/)
 
 ### Contact me
 
