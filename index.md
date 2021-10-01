@@ -12,11 +12,7 @@ python
 print("Programing is cool")
 ```
 
-For more details see [Github profile](https://github.com/mohamed20911).
-
-### web site
-
-To make website with github visit the website [Github pages](https://pages.github.com/)
+For more details see [Github profile](https://github.com/mohamed20911)
 
 ### Contact me
 
