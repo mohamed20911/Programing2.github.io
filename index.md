@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/mohamed20911/Programing2.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Mohamed
 
-### Markdown
+My channel is Programing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The channel link: [Programing](https://www.youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+python
+```py
+print("Programing is cool")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Github profile](https://github.com/mohamed20911).
 
-### Jekyll Themes
+### web site
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohamed20911/Programing2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To make website with github visit the website [Github pages]
 
-### Support or Contact
+### Contact me
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+contact me on social media 1.[Twitter](https://twitter.com/Program39300266) 2.[Instagram](https://www.instagram.com/mohamedehab2463/) Follow me in the social media 3.[Discord](https://discord.gg/gSdFnqZp) the is server you can found me the name is Mohamed Ehab
