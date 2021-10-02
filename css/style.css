@@ -19,6 +19,8 @@ body{
           width: 100%;
           padding: initial 20px;
           font-size: 1.2em;
+          text-align: center;
+          color: cyan;
 }
 
 .top ul{
